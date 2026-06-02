@@ -184,11 +184,11 @@ Dùng **↑ / ↓** chọn skin, **Enter** để mua hoặc trang bị, **Esc** 
 *Môn học: **Kỹ thuật lập trình***
 
 | STT | MSSV | Họ và tên | Vai trò |
-|-----|------|-----------|---------|
-| 1 | 036207014966 | *Đoàn Đức Duy* | Trưởng nhóm |
-| 2 | | *Nguyễn Đang Nhựt* | Thành viên |
-| 3 | 051207000452 | *Lê Trần Thanh Phong* | Thành viên |
-| 4 | 051207000452 | *Trần Quốc Đạt* | Thành viên |
+|---|--------------|-----------------------|-------------|
+| 1 | 036207014966 | *Đoàn Đức Duy*        | Trưởng nhóm |
+| 2 | 051207015364 | *Nguyễn Đang Nhựt*    | Thành viên  |
+| 3 | 051207000452 | *Lê Trần Thanh Phong* | Thành viên  |
+| 4 | 051207016092 | *Trần Quốc Đạt*       | Thành viên  |
 
 ---
 
